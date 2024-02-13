@@ -12,7 +12,7 @@ interface Props {
 const WhatsAppButton = ({logo, phone, message, width, height}: Props) => {
   const formattedMessage = message.replace(/ /g, "%20")
   return (
-    <div className="fixed bottom-1 right-2">
+    <div className="fixed bottom-1 right-2 z-3">
       <a
         href={`https://wa.me/57${phone}?text=${formattedMessage}`}
         target='_blank'
