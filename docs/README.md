@@ -6,7 +6,7 @@ El botón de WhatsApp puede es una funcionalidad que permite a los usuarios inic
 
 ### 1. Clonar repositorio
 
-Copia el [repositorio](https://github.com/Velasco1704/itg-monastery-whatsapp-button) del proyecto y clonarlo en en tu terminal.
+Copia el [repositorio](https://github.com/Velasco1704/itg-monastery-whatsapp-button) del proyecto y clonarlo en tu terminal.
 
 ```bash
 git clone https://github.com/Velasco1704/itg-monastery-whatsapp-button
